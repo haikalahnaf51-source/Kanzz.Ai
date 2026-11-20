@@ -1,0 +1,9 @@
+{
+  "name": "kanzz-ai-v3",
+  "main": "_worker.js",
+  "compatibility_date": "2026-01-01",
+  "assets": {
+    "binding": "ASSETS",
+    "directory": "."
+  }
+}
